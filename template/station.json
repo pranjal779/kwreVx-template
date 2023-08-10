@@ -1,0 +1,88 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "station_id",
+                "type": "string"
+            },
+            {
+                "name": "stn_name",
+                "type": "string"
+            },
+            {
+                "name": "active",
+                "type": "boolean"
+            },
+            {
+                "name": "published",
+                "type": "boolean"
+            },
+            {
+                "name": "update_monthly",
+                "type": "boolean"
+            },
+            {
+                "name": "station_title",
+                "type": "string"
+            },
+            {
+                "name": "epoch",
+                "type": "string"
+            },
+            {
+                "name": "mid_year",
+                "type": "string"
+            },
+            {
+                "name": "annotation",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "1.4.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "station_id": "1611400",
+            "stn_name": "Nawiliwili, HI",
+            "active": true,
+            "published": true,
+            "update_monthly": true,
+            "station_title": "1611400   Nawiliwili, HI",
+            "epoch": "1983-2001",
+            "mid_year": "1992",
+            "annotation": null
+        },
+        {
+            "index": 1,
+            "station_id": "1612340",
+            "stn_name": "Honolulu, HI",
+            "active": true,
+            "published": true,
+            "update_monthly": true,
+            "station_title": "1612340   Honolulu, HI",
+            "epoch": "1983-2001",
+            "mid_year": "1992",
+            "annotation": null
+        },
+        {
+            "index": 2,
+            "station_id": "1612480",
+            "stn_name": "Mokuoloe, HI",
+            "active": true,
+            "published": true,
+            "update_monthly": true,
+            "station_title": "1612480   Mokuoloe, HI",
+            "epoch": "1983-2001",
+            "mid_year": "1992",
+            "annotation": null
+        }
+    ]
+}

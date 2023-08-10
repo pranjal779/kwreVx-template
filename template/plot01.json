@@ -1,0 +1,64 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "plot_id",
+                "type": "integer"
+            },
+            {
+                "name": "station_id",
+                "type": "string"
+            },
+            {
+                "name": "plot_type_id",
+                "type": "integer"
+            },
+            {
+                "name": "y_axis_lower",
+                "type": "number"
+            },
+            {
+                "name": "y_axis_upper",
+                "type": "number"
+            },
+            {
+                "name": "x_axis_start_date",
+                "type": "datetime"
+            },
+            {
+                "name": "x_axis_end_date",
+                "type": "datetime"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "1.4.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "plot_id": 1,
+            "station_id": "1611400",
+            "plot_type_id": 1,
+            "y_axis_lower": -0.3,
+            "y_axis_upper": 1.5,
+            "x_axis_start_date": "1920-01-15T00:00:00.000",
+            "x_axis_end_date": "2025-12-15T00:00:00.000"
+        },
+        {
+            "index": 783,
+            "plot_id": 784,
+            "station_id": "9759110",
+            "plot_type_id": 7,
+            "y_axis_lower": -1.8,
+            "y_axis_upper": 1.8,
+            "x_axis_start_date": null,
+            "x_axis_end_date": null
+        }
+    ]
+}

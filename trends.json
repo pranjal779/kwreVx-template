@@ -1,0 +1,78 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "trend_id",
+                "type": "integer"
+            },
+            {
+                "name": "station_id",
+                "type": "string"
+            },
+            {
+                "name": "trend_type",
+                "type": "string"
+            },
+            {
+                "name": "trend",
+                "type": "number"
+            },
+            {
+                "name": "trend_error",
+                "type": "number"
+            },
+            {
+                "name": "ar",
+                "type": "number"
+            },
+            {
+                "name": "ar_error",
+                "type": "string"
+            },
+            {
+                "name": "status",
+                "type":"string"
+            },
+            {
+                "name": "complete_percent",
+                "type":"number"
+            },
+            {
+                "name": "OFFSET",
+                "type": "number"
+            },
+            {
+                "name": "start_date",
+                "type":"string"
+            },
+            {
+                "name": "end_date",
+                "type": "string"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "1.4.0"
+    },
+    "data": [
+        {
+            "index": ,
+            "trend_id": ,
+            "station_id": ,
+            "trend_type": ,
+            "trend": ,
+            "ar": ,
+            "ar_error": ,
+            "status": ,
+            "complete_percent": ,
+            "OFFSET": ,
+            "start_date": ,
+            "end_date": ,
+        }
+    ]
+}

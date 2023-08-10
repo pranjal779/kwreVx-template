@@ -1,0 +1,125 @@
+{
+    "schema": {
+        "fields": [
+            {
+                "name": "index",
+                "type": "integer"
+            },
+            {
+                "name": "plot_type_id",
+                "type": "integer"
+            },
+            {
+                "name": "plot_type",
+                "type": "string"
+            },
+            {
+                "name": "plot_name",
+                "type": "string"
+            },
+            {
+                "name": "description",
+                "type": "string"
+            },
+            {
+                "name": "y_axis_lower",
+                "type": "number"
+            },
+            {
+                "name": "y_axis_upper",
+                "type": "number"
+            },
+            {
+                "name": "x_axis_start",
+                "type": "datetime"
+            },
+            {
+                "name": "x_axis_end",
+                "type": "datetime"
+            }
+        ],
+        "primaryKey": [
+            "index"
+        ],
+        "pandas_version": "1.4.0"
+    },
+    "data": [
+        {
+            "index": 0,
+            "plot_type_id": 1,
+            "plot_type": "LINEHI",
+            "plot_name": "Exceedance line plot - High'",
+            "description": "The plot shows the monthly highest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -0.3,
+            "y_axis_upper": 1.5,
+            "x_axis_start": "1920-01-15T00:00:00.000",
+            "x_axis_end": "2025-12-15T00:00:00.000"
+        },
+        {
+            "index": 1,
+            "plot_type_id": 2,
+            "plot_type": "LINELO",
+            "plot_name": "Exceedance line plot - Low'",
+            "description": "The plot shows the monthly lowest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -1.5,
+            "y_axis_upper": 0.3,
+            "x_axis_start": "1920-01-15T00:00:00.000",
+            "x_axis_end": "2025-12-15T00:00:00.000"
+        },
+        {
+            "index": 2,
+            "plot_type_id": 3,
+            "plot_type": "CURVHI",
+            "plot_name": "Exceedance line plot - Low'",
+            "description": "The plot shows the monthly lowest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -1.5,
+            "y_axis_upper": 0.3,
+            "x_axis_start": null,
+            "x_axis_end": null
+        },
+        {
+            "index": 3,
+            "plot_type_id": 4,
+            "plot_type": "CURVLO",
+            "plot_name": "Exceedance line plot - Low'",
+            "description": "The plot shows the monthly lowest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -1.8,
+            "y_axis_upper": 0.0,
+            "x_axis_start": null,
+            "x_axis_end": null
+        },
+        {
+            "index": 4,
+            "plot_type_id": 5,
+            "plot_type": "SVARHI",
+            "plot_name": "Exceedance line plot - Low'",
+            "description": "The plot shows the monthly lowest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -0.3,
+            "y_axis_upper": 1.8,
+            "x_axis_start": null,
+            "x_axis_end": null
+        },
+        {
+            "index": 5,
+            "plot_type_id": 6,
+            "plot_type": "SVARLO",
+            "plot_name": "Exceedance line plot - Low'",
+            "description": "The plot shows the monthly lowest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -1.8,
+            "y_axis_upper": 0.3,
+            "x_axis_start": null,
+            "x_axis_end": null
+        },
+        {
+            "index": 6,
+            "plot_type_id": 7,
+            "plot_type": "STICK",
+            "plot_name": "Exceedance line plot - Low'",
+            "description": "The plot shows the monthly lowest water level and exceedance probability trend lines. '",
+            "y_axis_lower": -1.8,
+            "y_axis_upper": 1.8,
+            "x_axis_start": null,
+            "x_axis_end": null
+        }
+    ]
+}

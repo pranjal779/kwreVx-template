@@ -1,0 +1,7884 @@
+{
+  "schema": {
+    "fields": [
+      {
+        "name": "index",
+        "type": "integer"
+      },
+      {
+        "name": "plot_id",
+        "type": "integer"
+      },
+      {
+        "name": "station_id",
+        "type": "string"
+      },
+      {
+        "name": "plot_type_id",
+        "type": "integer"
+      },
+      {
+        "name": "y_axis_lower",
+        "type": "number"
+      },
+      {
+        "name": "y_axis_upper",
+        "type": "number"
+      },
+      {
+        "name": "x_axis_start_date",
+        "type": "datetime"
+      },
+      {
+        "name": "x_axis_end_date",
+        "type": "datetime"
+      }
+    ],
+    "primaryKey": [
+      "index"
+    ],
+    "pandas_version": "1.4.0"
+  },
+  "data": [
+    {
+      "index": 0,
+      "plot_id": 1,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 1,
+      "plot_id": 2,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 2,
+      "plot_id": 3,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 3,
+      "plot_id": 4,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 4,
+      "plot_id": 5,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 5,
+      "plot_id": 6,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 6,
+      "plot_id": 7,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 7,
+      "plot_id": 8,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 8,
+      "plot_id": 9,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 9,
+      "plot_id": 10,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 10,
+      "plot_id": 11,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 11,
+      "plot_id": 12,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 12,
+      "plot_id": 13,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 13,
+      "plot_id": 14,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 14,
+      "plot_id": 15,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 15,
+      "plot_id": 16,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 16,
+      "plot_id": 17,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 17,
+      "plot_id": 18,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 18,
+      "plot_id": 19,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 19,
+      "plot_id": 20,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 20,
+      "plot_id": 21,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 21,
+      "plot_id": 22,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 22,
+      "plot_id": 23,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 23,
+      "plot_id": 24,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 24,
+      "plot_id": 25,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 25,
+      "plot_id": 26,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 26,
+      "plot_id": 27,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 27,
+      "plot_id": 28,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 28,
+      "plot_id": 29,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 29,
+      "plot_id": 30,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 30,
+      "plot_id": 31,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 31,
+      "plot_id": 32,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 32,
+      "plot_id": 33,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 33,
+      "plot_id": 34,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 34,
+      "plot_id": 35,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 35,
+      "plot_id": 36,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 36,
+      "plot_id": 37,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 37,
+      "plot_id": 38,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 38,
+      "plot_id": 39,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 39,
+      "plot_id": 40,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 40,
+      "plot_id": 41,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 41,
+      "plot_id": 42,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 42,
+      "plot_id": 43,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 43,
+      "plot_id": 44,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 44,
+      "plot_id": 45,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 45,
+      "plot_id": 46,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 46,
+      "plot_id": 47,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 47,
+      "plot_id": 48,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 48,
+      "plot_id": 49,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 49,
+      "plot_id": 50,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 50,
+      "plot_id": 51,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 51,
+      "plot_id": 52,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 52,
+      "plot_id": 53,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 53,
+      "plot_id": 54,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 54,
+      "plot_id": 55,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 55,
+      "plot_id": 56,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 56,
+      "plot_id": 57,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 57,
+      "plot_id": 58,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 58,
+      "plot_id": 59,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 59,
+      "plot_id": 60,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 60,
+      "plot_id": 61,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 61,
+      "plot_id": 62,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 62,
+      "plot_id": 63,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 63,
+      "plot_id": 64,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 64,
+      "plot_id": 65,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 65,
+      "plot_id": 66,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 66,
+      "plot_id": 67,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 67,
+      "plot_id": 68,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 68,
+      "plot_id": 69,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 69,
+      "plot_id": 70,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 70,
+      "plot_id": 71,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 71,
+      "plot_id": 72,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 72,
+      "plot_id": 73,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 73,
+      "plot_id": 74,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 74,
+      "plot_id": 75,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 75,
+      "plot_id": 76,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 76,
+      "plot_id": 77,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 77,
+      "plot_id": 78,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 78,
+      "plot_id": 79,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 79,
+      "plot_id": 80,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 80,
+      "plot_id": 81,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 81,
+      "plot_id": 82,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 82,
+      "plot_id": 83,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 83,
+      "plot_id": 84,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 84,
+      "plot_id": 85,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 85,
+      "plot_id": 86,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 86,
+      "plot_id": 87,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 87,
+      "plot_id": 88,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 88,
+      "plot_id": 89,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 89,
+      "plot_id": 90,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 90,
+      "plot_id": 91,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 91,
+      "plot_id": 92,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 92,
+      "plot_id": 93,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 93,
+      "plot_id": 94,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 94,
+      "plot_id": 95,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 95,
+      "plot_id": 96,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 96,
+      "plot_id": 97,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 97,
+      "plot_id": 98,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 98,
+      "plot_id": 99,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 99,
+      "plot_id": 100,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 100,
+      "plot_id": 101,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 101,
+      "plot_id": 102,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 102,
+      "plot_id": 103,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 103,
+      "plot_id": 104,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 104,
+      "plot_id": 105,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 105,
+      "plot_id": 106,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 106,
+      "plot_id": 107,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 107,
+      "plot_id": 108,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 108,
+      "plot_id": 109,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 109,
+      "plot_id": 110,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 110,
+      "plot_id": 111,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 111,
+      "plot_id": 112,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 112,
+      "plot_id": 113,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 113,
+      "plot_id": 114,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 114,
+      "plot_id": 115,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 115,
+      "plot_id": 116,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 116,
+      "plot_id": 117,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 117,
+      "plot_id": 118,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 118,
+      "plot_id": 119,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 119,
+      "plot_id": 120,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 120,
+      "plot_id": 121,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 121,
+      "plot_id": 122,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 122,
+      "plot_id": 123,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 123,
+      "plot_id": 124,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 124,
+      "plot_id": 125,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 125,
+      "plot_id": 126,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 126,
+      "plot_id": 127,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 127,
+      "plot_id": 128,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 128,
+      "plot_id": 129,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 129,
+      "plot_id": 130,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 130,
+      "plot_id": 131,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 131,
+      "plot_id": 132,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 132,
+      "plot_id": 133,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 133,
+      "plot_id": 134,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 134,
+      "plot_id": 135,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 135,
+      "plot_id": 136,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 136,
+      "plot_id": 137,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 137,
+      "plot_id": 138,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 138,
+      "plot_id": 139,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 139,
+      "plot_id": 140,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 140,
+      "plot_id": 141,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 141,
+      "plot_id": 142,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 142,
+      "plot_id": 143,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 143,
+      "plot_id": 144,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 144,
+      "plot_id": 145,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 145,
+      "plot_id": 146,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 146,
+      "plot_id": 147,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 147,
+      "plot_id": 148,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 148,
+      "plot_id": 149,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 149,
+      "plot_id": 150,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 150,
+      "plot_id": 151,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 151,
+      "plot_id": 152,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 152,
+      "plot_id": 153,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 153,
+      "plot_id": 154,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 154,
+      "plot_id": 155,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 155,
+      "plot_id": 156,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 156,
+      "plot_id": 157,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 157,
+      "plot_id": 158,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 158,
+      "plot_id": 159,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 159,
+      "plot_id": 160,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 160,
+      "plot_id": 161,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 161,
+      "plot_id": 162,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 162,
+      "plot_id": 163,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 163,
+      "plot_id": 164,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 164,
+      "plot_id": 165,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 165,
+      "plot_id": 166,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 166,
+      "plot_id": 167,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 167,
+      "plot_id": 168,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 168,
+      "plot_id": 169,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 169,
+      "plot_id": 170,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 170,
+      "plot_id": 171,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 171,
+      "plot_id": 172,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 172,
+      "plot_id": 173,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 173,
+      "plot_id": 174,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 174,
+      "plot_id": 175,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 175,
+      "plot_id": 176,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 176,
+      "plot_id": 177,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 177,
+      "plot_id": 178,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 178,
+      "plot_id": 179,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 179,
+      "plot_id": 180,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 180,
+      "plot_id": 181,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 181,
+      "plot_id": 182,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 182,
+      "plot_id": 183,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 183,
+      "plot_id": 184,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 184,
+      "plot_id": 185,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 185,
+      "plot_id": 186,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 186,
+      "plot_id": 187,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 187,
+      "plot_id": 188,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 188,
+      "plot_id": 189,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 189,
+      "plot_id": 190,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 190,
+      "plot_id": 191,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 191,
+      "plot_id": 192,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 192,
+      "plot_id": 193,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 193,
+      "plot_id": 194,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 194,
+      "plot_id": 195,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 195,
+      "plot_id": 196,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 196,
+      "plot_id": 197,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 197,
+      "plot_id": 198,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 198,
+      "plot_id": 199,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 199,
+      "plot_id": 200,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 200,
+      "plot_id": 201,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 201,
+      "plot_id": 202,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 202,
+      "plot_id": 203,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 203,
+      "plot_id": 204,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 204,
+      "plot_id": 205,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 205,
+      "plot_id": 206,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 206,
+      "plot_id": 207,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 207,
+      "plot_id": 208,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 208,
+      "plot_id": 209,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 209,
+      "plot_id": 210,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 210,
+      "plot_id": 211,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 211,
+      "plot_id": 212,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 212,
+      "plot_id": 213,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 213,
+      "plot_id": 214,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 214,
+      "plot_id": 215,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 215,
+      "plot_id": 216,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 216,
+      "plot_id": 217,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 217,
+      "plot_id": 218,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 218,
+      "plot_id": 219,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 219,
+      "plot_id": 220,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 220,
+      "plot_id": 221,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 221,
+      "plot_id": 222,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 222,
+      "plot_id": 223,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 223,
+      "plot_id": 224,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 224,
+      "plot_id": 225,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 225,
+      "plot_id": 226,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 226,
+      "plot_id": 227,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 227,
+      "plot_id": 228,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 228,
+      "plot_id": 229,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 229,
+      "plot_id": 230,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 230,
+      "plot_id": 231,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 231,
+      "plot_id": 232,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 232,
+      "plot_id": 233,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 233,
+      "plot_id": 234,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 234,
+      "plot_id": 235,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 235,
+      "plot_id": 236,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 236,
+      "plot_id": 237,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 237,
+      "plot_id": 238,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 238,
+      "plot_id": 239,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 239,
+      "plot_id": 240,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 240,
+      "plot_id": 241,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 241,
+      "plot_id": 242,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 242,
+      "plot_id": 243,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 243,
+      "plot_id": 244,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 244,
+      "plot_id": 245,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 245,
+      "plot_id": 246,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 246,
+      "plot_id": 247,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 247,
+      "plot_id": 248,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 248,
+      "plot_id": 249,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 249,
+      "plot_id": 250,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 250,
+      "plot_id": 251,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 251,
+      "plot_id": 252,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 252,
+      "plot_id": 253,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 253,
+      "plot_id": 254,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 254,
+      "plot_id": 255,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 255,
+      "plot_id": 256,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 256,
+      "plot_id": 257,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 257,
+      "plot_id": 258,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 258,
+      "plot_id": 259,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 259,
+      "plot_id": 260,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 260,
+      "plot_id": 261,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 261,
+      "plot_id": 262,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 262,
+      "plot_id": 263,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 263,
+      "plot_id": 264,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 264,
+      "plot_id": 265,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 265,
+      "plot_id": 266,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 266,
+      "plot_id": 267,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 267,
+      "plot_id": 268,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 268,
+      "plot_id": 269,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 269,
+      "plot_id": 270,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 270,
+      "plot_id": 271,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 271,
+      "plot_id": 272,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 272,
+      "plot_id": 273,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 273,
+      "plot_id": 274,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 274,
+      "plot_id": 275,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 275,
+      "plot_id": 276,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 276,
+      "plot_id": 277,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 277,
+      "plot_id": 278,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 278,
+      "plot_id": 279,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 279,
+      "plot_id": 280,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 280,
+      "plot_id": 281,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 281,
+      "plot_id": 282,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 282,
+      "plot_id": 283,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 283,
+      "plot_id": 284,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 284,
+      "plot_id": 285,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 285,
+      "plot_id": 286,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 286,
+      "plot_id": 287,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 287,
+      "plot_id": 288,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 288,
+      "plot_id": 289,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 289,
+      "plot_id": 290,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 290,
+      "plot_id": 291,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 291,
+      "plot_id": 292,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 292,
+      "plot_id": 293,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 293,
+      "plot_id": 294,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 294,
+      "plot_id": 295,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 295,
+      "plot_id": 296,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 296,
+      "plot_id": 297,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 297,
+      "plot_id": 298,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 298,
+      "plot_id": 299,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 299,
+      "plot_id": 300,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 300,
+      "plot_id": 301,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 301,
+      "plot_id": 302,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 302,
+      "plot_id": 303,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 303,
+      "plot_id": 304,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 304,
+      "plot_id": 305,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 305,
+      "plot_id": 306,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 306,
+      "plot_id": 307,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 307,
+      "plot_id": 308,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 308,
+      "plot_id": 309,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 309,
+      "plot_id": 310,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 310,
+      "plot_id": 311,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 311,
+      "plot_id": 312,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 312,
+      "plot_id": 313,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 313,
+      "plot_id": 314,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 314,
+      "plot_id": 315,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 315,
+      "plot_id": 316,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 316,
+      "plot_id": 317,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 317,
+      "plot_id": 318,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 318,
+      "plot_id": 319,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 319,
+      "plot_id": 320,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 320,
+      "plot_id": 321,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 321,
+      "plot_id": 322,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 322,
+      "plot_id": 323,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 323,
+      "plot_id": 324,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 324,
+      "plot_id": 325,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 325,
+      "plot_id": 326,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 326,
+      "plot_id": 327,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 327,
+      "plot_id": 328,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 328,
+      "plot_id": 329,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 329,
+      "plot_id": 330,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 330,
+      "plot_id": 331,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 331,
+      "plot_id": 332,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 332,
+      "plot_id": 333,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 333,
+      "plot_id": 334,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 334,
+      "plot_id": 335,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 335,
+      "plot_id": 336,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 336,
+      "plot_id": 337,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 337,
+      "plot_id": 338,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 338,
+      "plot_id": 339,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 339,
+      "plot_id": 340,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 340,
+      "plot_id": 341,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 341,
+      "plot_id": 342,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 342,
+      "plot_id": 343,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 343,
+      "plot_id": 344,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 344,
+      "plot_id": 345,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 345,
+      "plot_id": 346,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 346,
+      "plot_id": 347,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 347,
+      "plot_id": 348,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 348,
+      "plot_id": 349,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 349,
+      "plot_id": 350,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 350,
+      "plot_id": 351,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 351,
+      "plot_id": 352,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 352,
+      "plot_id": 353,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 353,
+      "plot_id": 354,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 354,
+      "plot_id": 355,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 355,
+      "plot_id": 356,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 356,
+      "plot_id": 357,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 357,
+      "plot_id": 358,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 358,
+      "plot_id": 359,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 359,
+      "plot_id": 360,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 360,
+      "plot_id": 361,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 361,
+      "plot_id": 362,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 362,
+      "plot_id": 363,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 363,
+      "plot_id": 364,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 364,
+      "plot_id": 365,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 365,
+      "plot_id": 366,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 366,
+      "plot_id": 367,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 367,
+      "plot_id": 368,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 368,
+      "plot_id": 369,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 369,
+      "plot_id": 370,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 370,
+      "plot_id": 371,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 371,
+      "plot_id": 372,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 372,
+      "plot_id": 373,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 373,
+      "plot_id": 374,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 374,
+      "plot_id": 375,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 375,
+      "plot_id": 376,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 376,
+      "plot_id": 377,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 377,
+      "plot_id": 378,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 378,
+      "plot_id": 379,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 379,
+      "plot_id": 380,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 380,
+      "plot_id": 381,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 381,
+      "plot_id": 382,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 382,
+      "plot_id": 383,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 383,
+      "plot_id": 384,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 384,
+      "plot_id": 385,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 385,
+      "plot_id": 386,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 386,
+      "plot_id": 387,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 387,
+      "plot_id": 388,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 388,
+      "plot_id": 389,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 389,
+      "plot_id": 390,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 390,
+      "plot_id": 391,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 391,
+      "plot_id": 392,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 392,
+      "plot_id": 393,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 393,
+      "plot_id": 394,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 394,
+      "plot_id": 395,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 395,
+      "plot_id": 396,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 396,
+      "plot_id": 397,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 397,
+      "plot_id": 398,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 398,
+      "plot_id": 399,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 399,
+      "plot_id": 400,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 400,
+      "plot_id": 401,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 401,
+      "plot_id": 402,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 402,
+      "plot_id": 403,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 403,
+      "plot_id": 404,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 404,
+      "plot_id": 405,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 405,
+      "plot_id": 406,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 406,
+      "plot_id": 407,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 407,
+      "plot_id": 408,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 408,
+      "plot_id": 409,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 409,
+      "plot_id": 410,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 410,
+      "plot_id": 411,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 411,
+      "plot_id": 412,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 412,
+      "plot_id": 413,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 413,
+      "plot_id": 414,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 414,
+      "plot_id": 415,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 415,
+      "plot_id": 416,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 416,
+      "plot_id": 417,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 417,
+      "plot_id": 418,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 418,
+      "plot_id": 419,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 419,
+      "plot_id": 420,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 420,
+      "plot_id": 421,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 421,
+      "plot_id": 422,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 422,
+      "plot_id": 423,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 423,
+      "plot_id": 424,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 424,
+      "plot_id": 425,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 425,
+      "plot_id": 426,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 426,
+      "plot_id": 427,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 427,
+      "plot_id": 428,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 428,
+      "plot_id": 429,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 429,
+      "plot_id": 430,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 430,
+      "plot_id": 431,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 431,
+      "plot_id": 432,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 432,
+      "plot_id": 433,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 433,
+      "plot_id": 434,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 434,
+      "plot_id": 435,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 435,
+      "plot_id": 436,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 436,
+      "plot_id": 437,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 437,
+      "plot_id": 438,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 438,
+      "plot_id": 439,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 439,
+      "plot_id": 440,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 440,
+      "plot_id": 441,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 441,
+      "plot_id": 442,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 442,
+      "plot_id": 443,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 443,
+      "plot_id": 444,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 444,
+      "plot_id": 445,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 445,
+      "plot_id": 446,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 446,
+      "plot_id": 447,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 447,
+      "plot_id": 448,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 448,
+      "plot_id": 449,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 449,
+      "plot_id": 450,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 450,
+      "plot_id": 451,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 451,
+      "plot_id": 452,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 452,
+      "plot_id": 453,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 453,
+      "plot_id": 454,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 454,
+      "plot_id": 455,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 455,
+      "plot_id": 456,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 456,
+      "plot_id": 457,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 457,
+      "plot_id": 458,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 458,
+      "plot_id": 459,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 459,
+      "plot_id": 460,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 460,
+      "plot_id": 461,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 461,
+      "plot_id": 462,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 462,
+      "plot_id": 463,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 463,
+      "plot_id": 464,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 464,
+      "plot_id": 465,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 465,
+      "plot_id": 466,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 466,
+      "plot_id": 467,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 467,
+      "plot_id": 468,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 468,
+      "plot_id": 469,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 469,
+      "plot_id": 470,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 470,
+      "plot_id": 471,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 471,
+      "plot_id": 472,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 472,
+      "plot_id": 473,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 473,
+      "plot_id": 474,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 474,
+      "plot_id": 475,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 475,
+      "plot_id": 476,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 476,
+      "plot_id": 477,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 477,
+      "plot_id": 478,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 478,
+      "plot_id": 479,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 479,
+      "plot_id": 480,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 480,
+      "plot_id": 481,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 481,
+      "plot_id": 482,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 482,
+      "plot_id": 483,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 483,
+      "plot_id": 484,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 484,
+      "plot_id": 485,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 485,
+      "plot_id": 486,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 486,
+      "plot_id": 487,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 487,
+      "plot_id": 488,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 488,
+      "plot_id": 489,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 489,
+      "plot_id": 490,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 490,
+      "plot_id": 491,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 491,
+      "plot_id": 492,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 492,
+      "plot_id": 493,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 493,
+      "plot_id": 494,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 494,
+      "plot_id": 495,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 495,
+      "plot_id": 496,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 496,
+      "plot_id": 497,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 497,
+      "plot_id": 498,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 498,
+      "plot_id": 499,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 499,
+      "plot_id": 500,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 500,
+      "plot_id": 501,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 501,
+      "plot_id": 502,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 502,
+      "plot_id": 503,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 503,
+      "plot_id": 504,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 504,
+      "plot_id": 505,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 505,
+      "plot_id": 506,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 506,
+      "plot_id": 507,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 507,
+      "plot_id": 508,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 508,
+      "plot_id": 509,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 509,
+      "plot_id": 510,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 510,
+      "plot_id": 511,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 511,
+      "plot_id": 512,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 512,
+      "plot_id": 513,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 513,
+      "plot_id": 514,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 514,
+      "plot_id": 515,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 515,
+      "plot_id": 516,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 516,
+      "plot_id": 517,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 517,
+      "plot_id": 518,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 518,
+      "plot_id": 519,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 519,
+      "plot_id": 520,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 520,
+      "plot_id": 521,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 521,
+      "plot_id": 522,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 522,
+      "plot_id": 523,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 523,
+      "plot_id": 524,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 524,
+      "plot_id": 525,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 525,
+      "plot_id": 526,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 526,
+      "plot_id": 527,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 527,
+      "plot_id": 528,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 528,
+      "plot_id": 529,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 529,
+      "plot_id": 530,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 530,
+      "plot_id": 531,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 531,
+      "plot_id": 532,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 532,
+      "plot_id": 533,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 533,
+      "plot_id": 534,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 534,
+      "plot_id": 535,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 535,
+      "plot_id": 536,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 536,
+      "plot_id": 537,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 537,
+      "plot_id": 538,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 538,
+      "plot_id": 539,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 539,
+      "plot_id": 540,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 540,
+      "plot_id": 541,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 541,
+      "plot_id": 542,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 542,
+      "plot_id": 543,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 543,
+      "plot_id": 544,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 544,
+      "plot_id": 545,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 545,
+      "plot_id": 546,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 546,
+      "plot_id": 547,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 547,
+      "plot_id": 548,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 548,
+      "plot_id": 549,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 549,
+      "plot_id": 550,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 550,
+      "plot_id": 551,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 551,
+      "plot_id": 552,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 552,
+      "plot_id": 553,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 553,
+      "plot_id": 554,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 554,
+      "plot_id": 555,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 555,
+      "plot_id": 556,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 556,
+      "plot_id": 557,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 557,
+      "plot_id": 558,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 558,
+      "plot_id": 559,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 559,
+      "plot_id": 560,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 560,
+      "plot_id": 561,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 561,
+      "plot_id": 562,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 562,
+      "plot_id": 563,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 563,
+      "plot_id": 564,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 564,
+      "plot_id": 565,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 565,
+      "plot_id": 566,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 566,
+      "plot_id": 567,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 567,
+      "plot_id": 568,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 568,
+      "plot_id": 569,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 569,
+      "plot_id": 570,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 570,
+      "plot_id": 571,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 571,
+      "plot_id": 572,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 572,
+      "plot_id": 573,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 573,
+      "plot_id": 574,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 574,
+      "plot_id": 575,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 575,
+      "plot_id": 576,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 576,
+      "plot_id": 577,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 577,
+      "plot_id": 578,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 578,
+      "plot_id": 579,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 579,
+      "plot_id": 580,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 580,
+      "plot_id": 581,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 581,
+      "plot_id": 582,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 582,
+      "plot_id": 583,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 583,
+      "plot_id": 584,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 584,
+      "plot_id": 585,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 585,
+      "plot_id": 586,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 586,
+      "plot_id": 587,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 587,
+      "plot_id": 588,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 588,
+      "plot_id": 589,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 589,
+      "plot_id": 590,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 590,
+      "plot_id": 591,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 591,
+      "plot_id": 592,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 592,
+      "plot_id": 593,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 593,
+      "plot_id": 594,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 594,
+      "plot_id": 595,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 595,
+      "plot_id": 596,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 596,
+      "plot_id": 597,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 597,
+      "plot_id": 598,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 598,
+      "plot_id": 599,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 599,
+      "plot_id": 600,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 600,
+      "plot_id": 601,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 601,
+      "plot_id": 602,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 602,
+      "plot_id": 603,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 603,
+      "plot_id": 604,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 604,
+      "plot_id": 605,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 605,
+      "plot_id": 606,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 606,
+      "plot_id": 607,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 607,
+      "plot_id": 608,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 608,
+      "plot_id": 609,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 609,
+      "plot_id": 610,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 610,
+      "plot_id": 611,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 611,
+      "plot_id": 612,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 612,
+      "plot_id": 613,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 613,
+      "plot_id": 614,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 614,
+      "plot_id": 615,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 615,
+      "plot_id": 616,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 616,
+      "plot_id": 617,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 617,
+      "plot_id": 618,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 618,
+      "plot_id": 619,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 619,
+      "plot_id": 620,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 620,
+      "plot_id": 621,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 621,
+      "plot_id": 622,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 622,
+      "plot_id": 623,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 623,
+      "plot_id": 624,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 624,
+      "plot_id": 625,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 625,
+      "plot_id": 626,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 626,
+      "plot_id": 627,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 627,
+      "plot_id": 628,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 628,
+      "plot_id": 629,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 629,
+      "plot_id": 630,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 630,
+      "plot_id": 631,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 631,
+      "plot_id": 632,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 632,
+      "plot_id": 633,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 633,
+      "plot_id": 634,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 634,
+      "plot_id": 635,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 635,
+      "plot_id": 636,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 636,
+      "plot_id": 637,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 637,
+      "plot_id": 638,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 638,
+      "plot_id": 639,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 639,
+      "plot_id": 640,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 640,
+      "plot_id": 641,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 641,
+      "plot_id": 642,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 642,
+      "plot_id": 643,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 643,
+      "plot_id": 644,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 644,
+      "plot_id": 645,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 645,
+      "plot_id": 646,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 646,
+      "plot_id": 647,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 647,
+      "plot_id": 648,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 648,
+      "plot_id": 649,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 649,
+      "plot_id": 650,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 650,
+      "plot_id": 651,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 651,
+      "plot_id": 652,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 652,
+      "plot_id": 653,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 653,
+      "plot_id": 654,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 654,
+      "plot_id": 655,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 655,
+      "plot_id": 656,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 656,
+      "plot_id": 657,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 657,
+      "plot_id": 658,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 658,
+      "plot_id": 659,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 659,
+      "plot_id": 660,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 660,
+      "plot_id": 661,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 661,
+      "plot_id": 662,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 662,
+      "plot_id": 663,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 663,
+      "plot_id": 664,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 664,
+      "plot_id": 665,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 665,
+      "plot_id": 666,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 666,
+      "plot_id": 667,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 667,
+      "plot_id": 668,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 668,
+      "plot_id": 669,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 669,
+      "plot_id": 670,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 670,
+      "plot_id": 671,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 671,
+      "plot_id": 672,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 672,
+      "plot_id": 673,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 673,
+      "plot_id": 674,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 674,
+      "plot_id": 675,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 675,
+      "plot_id": 676,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 676,
+      "plot_id": 677,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 677,
+      "plot_id": 678,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 678,
+      "plot_id": 679,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 679,
+      "plot_id": 680,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 680,
+      "plot_id": 681,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 681,
+      "plot_id": 682,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 682,
+      "plot_id": 683,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 683,
+      "plot_id": 684,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 684,
+      "plot_id": 685,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 685,
+      "plot_id": 686,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 686,
+      "plot_id": 687,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 687,
+      "plot_id": 688,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 688,
+      "plot_id": 689,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 689,
+      "plot_id": 690,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 690,
+      "plot_id": 691,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 691,
+      "plot_id": 692,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 692,
+      "plot_id": 693,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 693,
+      "plot_id": 694,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 694,
+      "plot_id": 695,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 695,
+      "plot_id": 696,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 696,
+      "plot_id": 697,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 697,
+      "plot_id": 698,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 698,
+      "plot_id": 699,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 699,
+      "plot_id": 700,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 700,
+      "plot_id": 701,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 701,
+      "plot_id": 702,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 702,
+      "plot_id": 703,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 703,
+      "plot_id": 704,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 704,
+      "plot_id": 705,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 705,
+      "plot_id": 706,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 706,
+      "plot_id": 707,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 707,
+      "plot_id": 708,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 708,
+      "plot_id": 709,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 709,
+      "plot_id": 710,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 710,
+      "plot_id": 711,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 711,
+      "plot_id": 712,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 712,
+      "plot_id": 713,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 713,
+      "plot_id": 714,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 714,
+      "plot_id": 715,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 715,
+      "plot_id": 716,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 716,
+      "plot_id": 717,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 717,
+      "plot_id": 718,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 718,
+      "plot_id": 719,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 719,
+      "plot_id": 720,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 720,
+      "plot_id": 721,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 721,
+      "plot_id": 722,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 722,
+      "plot_id": 723,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 723,
+      "plot_id": 724,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 724,
+      "plot_id": 725,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 725,
+      "plot_id": 726,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 726,
+      "plot_id": 727,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 727,
+      "plot_id": 728,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 728,
+      "plot_id": 729,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 729,
+      "plot_id": 730,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 730,
+      "plot_id": 731,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 731,
+      "plot_id": 732,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 732,
+      "plot_id": 733,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 733,
+      "plot_id": 734,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 734,
+      "plot_id": 735,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 735,
+      "plot_id": 736,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 736,
+      "plot_id": 737,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 737,
+      "plot_id": 738,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 738,
+      "plot_id": 739,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 739,
+      "plot_id": 740,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 740,
+      "plot_id": 741,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 741,
+      "plot_id": 742,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 742,
+      "plot_id": 743,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 743,
+      "plot_id": 744,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 744,
+      "plot_id": 745,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 745,
+      "plot_id": 746,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 746,
+      "plot_id": 747,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 747,
+      "plot_id": 748,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 748,
+      "plot_id": 749,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 749,
+      "plot_id": 750,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 750,
+      "plot_id": 751,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 751,
+      "plot_id": 752,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 752,
+      "plot_id": 753,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 753,
+      "plot_id": 754,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 754,
+      "plot_id": 755,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 755,
+      "plot_id": 756,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 756,
+      "plot_id": 757,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 757,
+      "plot_id": 758,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 758,
+      "plot_id": 759,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 759,
+      "plot_id": 760,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 760,
+      "plot_id": 761,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 761,
+      "plot_id": 762,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 762,
+      "plot_id": 763,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 763,
+      "plot_id": 764,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 764,
+      "plot_id": 765,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 765,
+      "plot_id": 766,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 766,
+      "plot_id": 767,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 767,
+      "plot_id": 768,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 768,
+      "plot_id": 769,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 769,
+      "plot_id": 770,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 770,
+      "plot_id": 771,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 771,
+      "plot_id": 772,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 772,
+      "plot_id": 773,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 773,
+      "plot_id": 774,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 774,
+      "plot_id": 775,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 775,
+      "plot_id": 776,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 776,
+      "plot_id": 777,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 777,
+      "plot_id": 778,
+      "station_id": "Station_0",
+      "plot_type_id": 1,
+      "y_axis_lower": -0.3,
+      "y_axis_upper": 1.5,
+      "x_axis_start_date": "1920-01-15T00:00:00.000",
+      "x_axis_end_date": "2025-12-15T00:00:00.000"
+    },
+    {
+      "index": 778,
+      "plot_id": 779,
+      "station_id": "Station_1",
+      "plot_type_id": 2,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 779,
+      "plot_id": 780,
+      "station_id": "Station_2",
+      "plot_type_id": 3,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 780,
+      "plot_id": 781,
+      "station_id": "Station_3",
+      "plot_type_id": 4,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 0.3,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 781,
+      "plot_id": 782,
+      "station_id": "Station_4",
+      "plot_type_id": 5,
+      "y_axis_lower": 0.0,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 782,
+      "plot_id": 783,
+      "station_id": "Station_5",
+      "plot_type_id": 6,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    },
+    {
+      "index": 783,
+      "plot_id": 784,
+      "station_id": "Station_6",
+      "plot_type_id": 7,
+      "y_axis_lower": -1.8,
+      "y_axis_upper": 1.8,
+      "x_axis_start_date": null,
+      "x_axis_end_date": null
+    }
+  ]
+}
